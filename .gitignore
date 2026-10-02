@@ -1,2 +1,7 @@
 Header.tsx
 readme.md
+
+## Every .png files won't be added
+*.png 
+
+!jeff.png
